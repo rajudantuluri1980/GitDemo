@@ -14,6 +14,12 @@ public class Rough {
   File FC = new File(TestFile);//Created object of java File class.
   FC.createNewFile();//Create file.
   
+  System.out.println("hello");
+  System.out.println("hello");
+  System.out.println("hello");
+  System.out.println("hello");
+  System.out.println("hello");
+  
   //Writing In to file.
   //Create Object of java FileWriter and BufferedWriter class.
   FileWriter FW = new FileWriter(TestFile);

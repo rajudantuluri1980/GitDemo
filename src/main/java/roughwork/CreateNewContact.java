@@ -78,6 +78,7 @@ public class CreateNewContact {
 		System.out.println("Contact Created ::"+ title);
 		Assert.assertEquals("raj varma", title);
 		
+<<<<<<< HEAD
 		System.out.println("Contact Created 1::"+ title);
 		System.out.println("Contact Created 2::"+ title);
 		System.out.println("Contact Created 3::"+ title);
@@ -109,6 +110,12 @@ public class CreateNewContact {
 		System.out.println("Contact Created 14::"+ title);
 		System.out.println("Contact Created 15::"+ title);
 =======
+=======
+		System.out.println("Contact Created A::"+ title);
+		
+====== =System.out.println("Contact Created B::"+ title);
+        System.out.println("Contact Created C::"+ title);
+>>>>>>> fa8298a51385b4d1496a09d2bacb4f37b62b27e0
 >>>>>>> 95def33f2eb73d47f0de4175519a7b6d788b22dd
 	}	
 	
