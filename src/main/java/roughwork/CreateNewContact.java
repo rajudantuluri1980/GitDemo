@@ -77,7 +77,10 @@ public class CreateNewContact {
 		String title = driver.getTitle();
 		System.out.println("Contact Created ::"+ title);
 		Assert.assertEquals("raj varma", title);
-	    
+		
+		System.out.println("Contact Created 1::"+ title);
+		System.out.println("Contact Created 2::"+ title);
+		System.out.println("Contact Created 3::"+ title);
 	}	
 	
 	
