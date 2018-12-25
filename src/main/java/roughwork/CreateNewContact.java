@@ -81,13 +81,18 @@ public class CreateNewContact {
 		System.out.println("Contact Created 1::"+ title);
 		System.out.println("Contact Created 2::"+ title);
 		System.out.println("Contact Created 3::"+ title);
+<<<<<<< HEAD
 		System.out.println("Contact Created 4::"+ title);
 		System.out.println("Contact Created 5::"+ title);
 		System.out.println("Contact Created 6::"+ title);
 		System.out.println("Contact Created 7::"+ title);
 		System.out.println("Contact Created 8::"+ title);
 		System.out.println("Contact Created 9::"+ title);
+		System.out.println("Contact Created 10::"+ title);
+		System.out.println("Contact Created 11::"+ title);
 		
+=======
+>>>>>>> 95def33f2eb73d47f0de4175519a7b6d788b22dd
 	}	
 	
 	
